@@ -1,0 +1,15 @@
+{
+  "name": "redrobot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "RedRobot.control.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typed-bitwig-api": "^12.0.0"
+  }
+}
